@@ -1,3 +1,6 @@
 [submodule "packages/core_utils"]
 	path = packages/core_utils
 	url = https://github.com/hkarmoush/core_utils
+[submodule "packages/core_ui"]
+	path = packages/core_ui
+	url = https://github.com/hkarmoush/core_ui
